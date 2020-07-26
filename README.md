@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, my name is Rossella and I live in Japan 👋
 
-<!--
-**RossellaFer/RossellaFer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>I am a Front End Developer at <a href="https://flagship.cc/en">Flagship LLC 👩‍💻 </a>
 
-Here are some ideas to get you started:
+<h4>A little more about me... </h4> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const rossella = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS, Liquid, React],
+  learning: [Ruby, PHP for WordPress, Node],
+  techCommunities: ["Women who code", "Shopify Partners"],
+}
+```
