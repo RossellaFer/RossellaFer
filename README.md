@@ -1,6 +1,6 @@
 ### Hi there, my name is Rossella and I live in Japan 👋
 
-<p><em>I am a Front End Developer at <a href="https://flagship.cc/en">Flagship LLC 👩‍💻 </a>
+<p><em>I am a Front End Developer at <a href="https://namastudio.it/">Nama Studio 👩‍💻 </a>
 
 <h4>A little more about me... </h4> 
 
