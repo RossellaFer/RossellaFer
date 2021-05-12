@@ -1,4 +1,4 @@
-### Hi there, my name is Rossella and I live in Japan 👋
+### Hi there, my name is Rossella and I live in Italy 👋
 
 <p><em>I am a Front End Developer at <a href="https://namastudio.it/">Nama Studio 👩‍💻 </a>
 
