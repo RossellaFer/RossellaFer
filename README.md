@@ -4,7 +4,7 @@
 ### Hi there, my name is Rossella 👋
 
 <p><em>I work as Frontend Web Engineer at <a target="_blank" href="https://namastudio.it/en/">Nama Studio 👩‍💻 </a>. Nama is a boutique agency dedicated to creating successful e-commerce stories. We do it using <a href="https://www.shopify.com/" target="_blank">Shopify</a>, the e-commerce platform that has completely changed how people sell online.</p>
-<p>If you want to know more about my journey into tech, check out my <a href="https://www.rossellaferrandino.info/">portfilio website</a></p>.
+<p>If you want to know more about my journey into tech, check out my <a href="https://www.rossellaferrandino.info/">portfolio website</a>.</p>
 
 <h4>A little more about me... </h4>
 
