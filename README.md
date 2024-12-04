@@ -3,25 +3,23 @@
 
 ### Hi there, my name is Rossella 👋
 
-<p><em>I am the co-owner and Front End Developer at <a target="_blank" href="https://namastudio.it/en/">Nama Studio 👩‍💻 </a>. Nama is a boutique agency dedicated to creating successful e-commerce stories. We do it using <a href="https://www.shopify.com/" target="_blank">Shopify</a>, the e-commerce platform that has completely changed how people sell online.</p>
+<p><em>I work as Frontend Web Engineer at <a target="_blank" href="https://namastudio.it/en/">Nama Studio 👩‍💻 </a>. Nama is a boutique agency dedicated to creating successful e-commerce stories. We do it using <a href="https://www.shopify.com/" target="_blank">Shopify</a>, the e-commerce platform that has completely changed how people sell online.</p>
+<p>If you want to know more about my journey into tech, check out my <a href="https://www.rossellaferrandino.info/">portfilio website</a></p>.
 
 <h4>A little more about me... </h4>
 
 ```javascript
 const rossella = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Liquid],
-  techCommunities: ["Women who code", "Shopify Partners"],
-  location: "Italy, open to relocate",
+  code: [Javascript, React, Liquid],
+  techCommunities: ["Women in Software Engineering Japan", "Shopify Partners", "Web Dev Alliance"],
+  location: "Italy, looking to relocate to Tokyo",
   previousLocations: ["Foggia", "Venice", "London", "Tokyo"]
 }
 ```
 
-### Languages and Tools:
+## Languages and Tools:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RossellaFer&layout=compact"/>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=RossellaFer&show_icons=true&include_all_commits=true&hide_border=true" alt="Rossella Ferrandino Github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RossellaFer&hide_border=true&layout=compact" /> |
+| ------------- | ------------- |
 
-<br />
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RossellaFer"/>
