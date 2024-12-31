@@ -1,4 +1,3 @@
-<img src="https://github.com/RossellaFer/RossellaFer/blob/master/header.png" alt="Rossella Ferrandino Github README header image">
 <p><a href="https://twitter.com/ross_ferrandino"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/rossella-ferrandino-67601226/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://dev.to/rossellafer"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a> <a href="https://www.behance.net/rossellferrand"><img src="https://img.shields.io/badge/behance-%230A0A0A.svg?&style=for-the-badge&logo=behance&logoColor=white" height=25></a></p>
 
 ### Hi there, my name is Rossella 👋
@@ -13,7 +12,7 @@ const rossella = {
   pronouns: "she" | "her",
   code: [Javascript, React, Liquid],
   techCommunities: ["Women in Software Engineering Japan", "Shopify Partners", "Web Dev Alliance"],
-  location: "Italy, looking to relocate to Tokyo",
+  location: "Italy, relocating to Tokyo in April 2025",
   previousLocations: ["Foggia", "Venice", "London", "Tokyo"]
 }
 ```
