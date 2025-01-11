@@ -2,7 +2,7 @@
 
 ### Hi there, my name is Rossella 👋
 
-<p><em>I work as Frontend Web Engineer at <a target="_blank" href="https://namastudio.it/en/">Nama Studio 👩‍💻 </a>. Nama is a boutique agency dedicated to creating successful e-commerce stories. We do it using <a href="https://www.shopify.com/" target="_blank">Shopify</a>, the e-commerce platform that has completely changed how people sell online.</p>
+<p>I work as Frontend Web Engineer at <a target="_blank" href="https://namastudio.it/en/">Nama Studio 👩‍💻 </a>. Nama is a boutique agency dedicated to creating successful e-commerce stories. We do it using <a href="https://www.shopify.com/" target="_blank">Shopify</a>, the e-commerce platform that has completely changed how people sell online.</p>
 <p>If you want to know more about my journey into tech, check out my <a href="https://www.rossellaferrandino.info/">portfolio website</a>.</p>
 
 <h4>A little more about me... </h4>
@@ -12,10 +12,17 @@ const rossella = {
   pronouns: "she" | "her",
   code: [Javascript, React, Liquid],
   techCommunities: ["Women in Software Engineering Japan", "Shopify Partners", "Web Dev Alliance"],
-  location: "Italy, relocating to Tokyo in April 2025",
-  previousLocations: ["Foggia", "Venice", "London", "Tokyo"]
+  location: "Italy, relocating to Tokyo in May 2025"
 }
 ```
+
+#### Some highlights from my [blog](https://www.rossellaferrandino.info/blog.html)
+
+* [Sustainable Web Development: website redesign with low carbon footprint](https://namastudio.it/en/blogs/blog/sviluppo-web-sostenibile-un-sito-web-a-basso-impatto-ambientale)
+* [How working in Japan shaped my professional journey](https://medium.com/@rferrandino.tokyo/how-working-in-japan-shaped-my-professional-journey-ff923ef6b366)
+* [Everything you need to know about Shopify's New Customer Accounts](https://namastudio.it/en/blogs/blog/nuovi-account-cliente-di-shopify)
+* [Metaobjects: The Key to Simplifying Complex Code Management](https://namastudio.it/en/blogs/blog/metaoggetti-la-chiave-per-semplificare-la-gestione-di-codice-complesso)
+* [15 useful links for developers to keep updated on Shopify](https://namastudio.it/en/blogs/blog/risorse-utili-sviluppo-shopify)
 
 ## Languages and Tools:
 
