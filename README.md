@@ -2,7 +2,8 @@
 
 ### Hi there, my name is Rossella 👋
 
-<p>I work as Frontend Web Engineer at <a target="_blank" href="https://namastudio.it/en/">Nama Studio 👩‍💻 </a>. Nama is a boutique agency dedicated to creating successful e-commerce stories. We do it using <a href="https://www.shopify.com/" target="_blank">Shopify</a>, the e-commerce platform that has completely changed how people sell online.</p>
+<p>I work as Front End Tech Lead at <a target="_blank" href="https://flagship.cc/en">Flagship</a>. a company specializing in e-commerce development using Shopify Plus. In the past, I was the co-owner <a target="_blank" href="https://namastudio.it/en/">Nama Studio 👩‍💻 </a>, an independent web development studio where we dedicated at least half of our resources to projects led by women or individuals from underrepresented communities, and to online stores with a strong cultural, ethical, or sustainable identity.
+  
 <p>If you want to know more about my journey into tech, check out my <a href="https://www.rossellaferrandino.info/">portfolio website</a>.</p>
 
 <h4>A little more about me... </h4>
@@ -11,8 +12,8 @@
 const rossella = {
   pronouns: "she" | "her",
   code: [Javascript, React, Liquid],
-  techCommunities: ["Women in Software Engineering Japan", "Shopify Partners", "Web Dev Alliance"],
-  location: "Italy, relocating to Tokyo in May 2025"
+  techCommunities: ["Women in Software Engineering Japan", "Shopify Partners", "ShopDev Alliance"],
+  location: "Tokyo"
 }
 ```
 
@@ -22,6 +23,8 @@ const rossella = {
 * [How working in Japan shaped my professional journey](https://medium.com/@rferrandino.tokyo/how-working-in-japan-shaped-my-professional-journey-ff923ef6b366)
 * [Everything you need to know about Shopify's New Customer Accounts](https://namastudio.it/en/blogs/blog/nuovi-account-cliente-di-shopify)
 * [Metaobjects: The Key to Simplifying Complex Code Management](https://namastudio.it/en/blogs/blog/metaoggetti-la-chiave-per-semplificare-la-gestione-di-codice-complesso)
+* [Mapping the Shopify App Ecosystem in Italy (2025)](https://medium.com/@rferrandino.tokyo/mapping-the-shopify-app-ecosystem-in-italy-2025-203545ae26f5)
+* [Shopify theme Horizon: first impressions and developer insights](https://medium.com/@rferrandino.tokyo/shopify-theme-horizon-first-impressions-and-developer-insights-da0252b3f717)
 * [15 useful links for developers to keep updated on Shopify](https://namastudio.it/en/blogs/blog/risorse-utili-sviluppo-shopify)
 
 ## Languages and Tools:
